@@ -1,0 +1,8 @@
+{
+  "description": "AI 기반 이모지 보물찾기 게임",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "name": "Remix 이모지 보물찾기 AI",
+  "majorCapabilities": []
+}
